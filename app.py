@@ -137,7 +137,7 @@ Por favor, proporciona el contenido con estas instrucciones:
 # --- Interfaz Streamlit ---
 
 st.set_page_config(layout="wide", page_title="Sistema de Aprendizaje Personalizado-Contenido básico creado por IA")
-st.title("Sistema de Aprendizaje Personalizado - Flipped Classroom")
+st.title("Sistema de Aprendizaje Personalizado - Flipped Classroom - Contenido básico creado por IA")
 
 st.subheader("1. Actualizar Niveles con Resultados de Examen (CSV)")
 st.info(
